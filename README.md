@@ -22,3 +22,8 @@
 - http://www.michaelburge.us/2017/08/31/roll-your-own-bitcoin-exchange.html
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+> Resources for Python:
+
+- https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+- src : https://github.com/dvf/blockchain
